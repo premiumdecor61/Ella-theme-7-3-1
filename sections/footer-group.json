@@ -326,8 +326,6 @@
                     "show_subscription": false,
                     "open_newsletter_popup": false,
                     "subscription_text": "Sign up to be the first to know when the event is live!",
-                    "subscription_button": "SUBSCRIBE",
-                    "form_align": "end",
                     "width": "fill",
                     "custom_width": 100,
                     "width_tablet": "fill",
@@ -1723,9 +1721,7 @@
         "payment_enable": true,
         "show_social": true,
         "show_copyright": true,
-        "show_policy": true,
-        "padding_top": 30,
-        "padding_bottom": 36
+        "show_policy": true
       }
     }
   },
